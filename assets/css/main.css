@@ -1052,11 +1052,11 @@ section,
 
 @media (max-width: 575px) {
   .info-wrap {
-   display:block;
+   display: block !important;
   }
   .contact .info-wrap {
     padding: 20px;
-     display:block;
+     display: block !important;
   }
 }
 
