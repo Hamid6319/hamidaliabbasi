@@ -1056,6 +1056,7 @@ section,
   }
   .contact .info-wrap {
     padding: 20px;
+     display:block;
   }
 }
 
