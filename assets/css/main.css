@@ -1051,6 +1051,9 @@ section,
 }
 
 @media (max-width: 575px) {
+  .hero {
+   min-height : 40vh !important ;
+  }
   .info-wrap {
    display: block !important;
   }
