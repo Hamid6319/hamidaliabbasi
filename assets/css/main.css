@@ -1051,6 +1051,9 @@ section,
 }
 
 @media (max-width: 575px) {
+  .info-wrap {
+   display:block;
+  }
   .contact .info-wrap {
     padding: 20px;
   }
